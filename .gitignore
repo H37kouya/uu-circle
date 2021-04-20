@@ -67,6 +67,7 @@ fabric.properties
 .venv
 venv
 .pyc
+__pycache__
 
 # Container
 db/
